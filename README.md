@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoshiFrancis
 - 👀 I’m interested in ... games and coding
-- 🌱 I’m currently learning ... javascript, C#, and Unity Engine
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning React, Node, and Express.js
+- 💞️ I’m looking to collaborate on nothing right now. 
 - 📫 How to reach me ...
 
 <!---
